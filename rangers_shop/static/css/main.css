@@ -1,0 +1,8 @@
+/* Shop Page CSS */
+
+.shop-header {
+    background-image: url("https://secure.franklintheatre.com/images/user/ft_11874/little%20shop%20web.jpg");
+    background-size: cover;
+    height: 700px;
+    color: white;
+}
